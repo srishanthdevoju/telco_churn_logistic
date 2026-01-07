@@ -1,0 +1,21 @@
+/* =========================
+   style.css
+   ========================= */
+body {
+    background-color: #f7f9fc;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+h2, h3 {
+    color: #34495e;
+}
+
+.stButton button {
+    background-color: #1abc9c;
+    color: white;
+    border-radius: 8px;
+}
